@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+data/
+outputs/
+artifacts/
+*.npy
+*.npz
+*.h5
+*.h5ad
+*.log

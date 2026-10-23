@@ -1,0 +1,3 @@
+# For a server with a working CUDA 12.x runtime and development headers.
+-r requirements.txt
+cupy-cuda12x>=13.4,<14

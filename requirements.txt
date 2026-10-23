@@ -1,0 +1,6 @@
+numpy>=1.26,<3
+scipy>=1.12,<2
+scikit-learn>=1.4,<2
+h5py>=3.10,<4
+anndata>=0.10,<1
+scanpy>=1.10,<2

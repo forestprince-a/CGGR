@@ -1,0 +1,6 @@
+{
+  "alpha": 1.0,
+  "beta": 1.0,
+  "random_state": 0,
+  "device": "cuda"
+}
